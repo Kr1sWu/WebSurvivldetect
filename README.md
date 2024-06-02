@@ -3,6 +3,7 @@
 使用帮助:
 
 > python3 check_sites.py -l domain.txt -o resutl.txt
+
     -u  指定单个目标地址
     -l  指定一个目标文件
     -o  指定一个文件名来保存结果
