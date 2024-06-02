@@ -4,4 +4,4 @@
 <img src="pic1.png">
 
 使用效果:
-<img src="pic2.jpg">
+<img src="pic2.png">
