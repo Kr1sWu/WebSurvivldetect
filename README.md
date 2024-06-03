@@ -8,7 +8,6 @@
     -l  指定一个目标文件
     -o  指定一个文件名来保存结果
     
-<img src="pic1.png">
 
 使用效果:
 <img src="pic2.png">
